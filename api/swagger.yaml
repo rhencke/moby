@@ -6947,7 +6947,7 @@ paths:
             - `label=<string>` image or container label
             - `network=<string>` network name or ID
             - `plugin`=<string> plugin name or ID
-            - `scope`＝<string> local or swarm
+            - `scope`=<string> local or swarm
             - `type=<string>` object to filter by, one of `container`, `image`, `volume`, `network`, `daemon`, `plugin`, `node`, `service` or `secret`
             - `volume=<string>` volume name or ID
           type: "string"
